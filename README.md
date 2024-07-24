@@ -10,7 +10,7 @@ pip install pandas
 How to Run
 Clone the Repository:
 
-git clone https://github.com/your-username/task-management.git
+git clone https://github.com/EHTESHAM02/task-management.git
 cd task-management
 Run the Script:
 
